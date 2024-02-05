@@ -1,0 +1,54 @@
+/* Bun top and bottom styling */
+.bun-top, .bun-bottom {
+    background-color: #f5e3a1;
+    border: 2px solid #ecc678;
+    width: 200px; /* Reduced width */
+    height: 40px; /* Reduced height */
+    border-radius: 100px 100px 0 0;
+    margin: 2px auto;
+}
+
+/* Lettuce styling */
+.lettuce {
+    background-color: #2ecc71;
+    border: 1px solid #27ae60;
+    width: 180px; /* Reduced width */
+    height: 10px; /* Reduced height */
+    margin: 2px auto;
+}
+
+/* Cheese styling */
+.cheese {
+    background-color: #f1c40f;
+    border: 1px solid #f39c12;
+    width: 180px; /* Reduced width */
+    height: 5px; /* Reduced height */
+    margin: 1px auto;
+}
+
+/* Patty styling */
+.patty {
+    background-color: #8b4513;
+    border: 2px solid #6e2d1c;
+    width: 180px; /* Reduced width */
+    height: 30px; /* Reduced height */
+    margin: 2px auto;
+}
+
+/* Tomato styling */
+.tomato {
+    background-color: #e74c3c;
+    border: 1px solid #c0392b;
+    width: 180px; /* Reduced width */
+    height: 8px; /* Reduced height */
+    margin: 2px auto;
+}
+
+/* Onion styling - new ingredient */
+.onion {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    width: 180px; /* Reduced width */
+    height: 8px; /* Reduced height */
+    margin: 2px auto;
+}
